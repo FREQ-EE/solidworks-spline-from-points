@@ -18,3 +18,4 @@ This script creates a spline in a 3D sketch, using coordinates from a CSV file a
 ## Notes
 - Ensure that the CSV file contains enough points (at least two) to create a spline.
 - You must update the `filePath` in the code to specify the correct location of your CSV file.
+- See [blender-bone-logging](https://github.com/FREQ-EE/blender-bone-logging) for example CSV creation from an active armature object in Blender.
